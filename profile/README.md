@@ -31,7 +31,7 @@ University), and is currently supported by **Dr. Mingyuan Zhu** (Texas A&M Unive
 
 - **Lead developer:** [Isaiah W. Taylor](https://github.com/the-rhizodynamics-robot)
 - **Key past contributors:** Aradhya Rajanala, Erin McCaskey, Carrie Hunner, and Anupam Mijar.
-- **Additional collaborators:**Christopher Pierce, Jason Ligon, Enes Aydin, Amanda Carmichael, 
+- **Additional collaborators:** Christopher Pierce, Jason Ligon, Enes Aydin, Amanda Carmichael, 
  Lauren Eserman, Emily E. D. Coffee, Milan Shah, and the Goldman and Benfey labs.
 
 Contributions and questions from people using the system are welcome: open an issue or
