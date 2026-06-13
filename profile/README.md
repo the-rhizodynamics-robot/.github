@@ -29,7 +29,7 @@ This project grew out of a collaboration between the lab of **Dr. Daniel I. Gold
 (Georgia Institute of Technology) and the lab of **Dr. Philip N. Benfey** (Duke
 University), and is currently supported by **Dr. Mingyuan Zhu** (Texas A&M University).
 
-- **Lead developer:** [Isaiah W. Taylor](https://github.com/the-rhizodynamics-robot)
+- **Lead developer:** [Isaiah W. Taylor](https://github.com/isaiahwtaylor)
 - **Key past contributors:** Aradhya Rajanala, Erin McCaskey, Carrie Hunner, and Anupam Mijar.
 - **Additional collaborators:** Christopher Pierce, Jason Ligon, Enes Aydin, Amanda Carmichael, 
  Lauren Eserman, Emily E. D. Coffee, Milan Shah, and the Goldman and Benfey labs.
