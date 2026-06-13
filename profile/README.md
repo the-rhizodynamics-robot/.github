@@ -2,14 +2,14 @@
 
 **Automated, high-throughput time-lapse imaging for studying long-term root growth.**
 
-The Rhizodynamics Robot — *GROOT* (Generating Rhizodynamic Observations Over Time) — is
+The Rhizodynamics Robot *GROOT* (Generating Rhizodynamic Observations Over Time) is
 a low-cost robotic imaging platform that photographs many containers of plants growing
-in a clear gel medium, repeatedly, over weeks to months. A 2-axis camera gantry visits
+in a clear gel medium, repeatedly, over days to months. A 2-axis camera gantry visits
 each container on a fixed schedule and captures images, enabling time-lapse study of
 root systems that are normally hidden underground.
 
 The system was built from widely available, inexpensive parts and has been used to image
-root growth in *Oryza sativa* (rice), *Hudsonia montana*, and several orchid species
+root growth in *Arabidopsis*, *Oryza sativa* (rice), *Hudsonia montana*, and several orchid species
 including *Platanthera integrilabia*.
 
 ---
@@ -30,12 +30,11 @@ This project grew out of a collaboration between the lab of **Dr. Daniel I. Gold
 University), and is currently supported by **Dr. Mingyuan Zhu** (Texas A&M University).
 
 - **Lead developer:** [Isaiah W. Taylor](https://github.com/the-rhizodynamics-robot)
-- **Key contributors:** Erin McCaskey, Carrie Hunner, and Anupam Mijar.
-- **Additional collaborators:** Aradhya Rajanala, Christopher Pierce, Jason Ligon,
-  Enes Aydin, Amanda Carmichael, Lauren Eserman, Emily E. D. Coffee, Milan Shah, and the
-  Goldman and Benfey labs.
+- **Key pst contributors:** Aradhya Rajanala, Erin McCaskey, Carrie Hunner, and Anupam Mijar.
+- **Additional collaborators:**Christopher Pierce, Jason Ligon, Enes Aydin, Amanda Carmichael, 
+ Lauren Eserman, Emily E. D. Coffee, Milan Shah, and the Goldman and Benfey labs.
 
-Contributions and questions from people using the system are welcome — open an issue or
+Contributions and questions from people using the system are welcome: open an issue or
 a pull request on the relevant repository.
 
 ---
