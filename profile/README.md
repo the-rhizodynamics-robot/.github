@@ -19,6 +19,8 @@ root growth in *Arabidopsis* and other species.
 |------|------------|
 | [**robot-control**](https://github.com/the-rhizodynamics-robot/robot-control) | Arduino firmware for the camera gantry + a Python host program that configures a run, drives the robot over serial, and supervises image capture. |
 | [**qr-coding**](https://github.com/the-rhizodynamics-robot/qr-coding) | A tool for generating printable QR-code labels for the growth containers, so each plant is uniquely identified in the image record. |
+| [**file-sorting**](https://github.com/the-rhizodynamics-robot/file-sorting) | A Nextflow pipeline that sorts and labels the captured images into experiments and builds stabilized time-lapse videos of root growth. |
+| [**root-tracking**](https://github.com/the-rhizodynamics-robot/root-tracking) | Downstream analysis that tracks root tips over time from the processed time-lapse images. |
 
 ---
 
