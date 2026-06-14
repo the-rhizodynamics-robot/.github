@@ -25,7 +25,7 @@ including *Platanthera integrilabia*.
 
 ## Origin & contributions
 
-This project grew out of a collaboration between the lab of **Dr. Daniel I. Goldman**
+This project has grown out of a collaboration between the lab of **Dr. Daniel I. Goldman**
 (Georgia Institute of Technology) and the lab of **Dr. Philip N. Benfey** (Duke
 University), and is additionally now supported by the lab of **Dr. Mingyuan Zhu**
 (Texas A&M University).
