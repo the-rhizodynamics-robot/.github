@@ -9,7 +9,8 @@ each container on a fixed schedule and captures images, enabling time-lapse stud
 root systems that are normally hidden underground.
 
 The system was built from widely available, inexpensive parts and has been used to image
-root growth in *Arabidopsis* and other species.
+root growth in *Arabidopsis*, *Oryza sativa* (rice), *Hudsonia montana*, and several orchid species
+including *Platanthera integrilabia*.
 
 ---
 
